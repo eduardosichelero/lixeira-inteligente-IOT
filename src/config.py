@@ -1,1 +1,0 @@
-RABBIT_CONFIG = 'amqps://ekntrjag:lFP-VBSX8Ehfj8PcGGgvTMXb-BDNEfDy@jaragua.lmq.cloudamqp.com/ekntrjag'
