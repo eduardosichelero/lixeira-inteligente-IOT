@@ -1,3 +1,7 @@
+---
+icon: newspaper
+---
+
 # Introdução
 
 Este documento apresenta o projeto **Lixeira Inteligente IoT**. Nosso objetivo é controlar uma lixeira remotamente via rede.

@@ -1,3 +1,7 @@
+---
+icon: python
+---
+
 # Server
 
 ### **Principais Classes e Métodos**

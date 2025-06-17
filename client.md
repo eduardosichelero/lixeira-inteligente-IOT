@@ -1,3 +1,7 @@
+---
+icon: computer
+---
+
 # Client
 
 ### **Visão Geral do Cliente**
